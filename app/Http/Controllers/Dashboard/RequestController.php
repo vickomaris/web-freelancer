@@ -81,5 +81,10 @@ class RequestController extends Controller
     public function destroy($id)
     {
         //
+    } 
+
+    //custom
+    public function approve($id){
+
     }
 }
